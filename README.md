@@ -1,6 +1,6 @@
-# React gantt timeline
+# React gantt table
 
-Gantt timeline component
+Gantt table component
 
 ## Usage
 
