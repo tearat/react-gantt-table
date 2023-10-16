@@ -1,7 +1,7 @@
 {
-  "name": "react-gantt-timeline",
+  "name": "react-gantt-table",
   "version": "0.1.0",
-  "description": "React gantt timeline component",
+  "description": "React gantt table component",
   "dependencies": {
     "@types/node": "^16.18.58",
     "@types/react": "^18.2.28",
@@ -32,5 +32,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tearat/react-gantt-table.git"
+  },
+  "keywords": [
+    "gantt",
+    "react"
+  ],
+  "author": "tearat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tearat/react-gantt-table/issues"
+  },
+  "homepage": "https://github.com/tearat/react-gantt-table#readme"
 }

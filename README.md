@@ -6,7 +6,7 @@ Gantt timeline component
 
 ```ts
 import React from "react"
-import { GanttTable, GanttTableEvent } from "react-gantt-timeline"
+import { GanttTable, GanttTableEvent } from "react-gantt-table"
 
 function App() {
   const events: GanttTableEvent[] = [
